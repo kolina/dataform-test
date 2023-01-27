@@ -1,0 +1,6 @@
+{
+  "name": "ikolina-test-1",
+  "dependencies": {
+    "@dataform/core": "2.0.0-beta.1"
+  }
+}

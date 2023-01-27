@@ -1,0 +1,7 @@
+{
+  "defaultSchema": "dataform_stackoverflow",
+  "assertionSchema": "dataform_stackoverflow_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "cloud-dataform-testing",
+  "defaultLocation": "asia-east1"
+}
