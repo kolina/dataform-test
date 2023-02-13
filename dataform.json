@@ -1,7 +1,7 @@
 {
-  "defaultSchema": "dataform_stackoverflow",
-  "assertionSchema": "dataform_stackoverflow_assertions",
+  "defaultSchema": "dataform_stackoverflow_europe_west1",
+  "assertionSchema": "dataform_stackoverflow_assertions_europe_west1",
   "warehouse": "bigquery",
   "defaultDatabase": "cloud-dataform-testing",
-  "defaultLocation": "asia-east1"
+  "defaultLocation": "europe-west1"
 }
