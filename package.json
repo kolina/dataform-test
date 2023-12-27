@@ -2,6 +2,6 @@
   "name": "ikolina-asia-southeast1",
   "dependencies": {
     "@dataform/core": "2.4.2",
-    "dataform-scd": "https://github.com/dataform-co/dataform-scd/archive/0.4.tar.gz"
+    "dataform-scd": "https://github.com/dataform-co/dataform-scd/archive/c4def802767c422d40f49a137d86c1e5ccb7d713.tar.gz"
   }
 }
